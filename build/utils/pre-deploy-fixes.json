@@ -1,0 +1,213 @@
+{
+  "default": {
+    "profiles/Account Executive.profile": [
+      {
+        "where": "Profile",
+        "disableObjects": [ "SBQQ__QuoteDocument__c", "SBQQ__QuoteLine__c", "SBQQ__QuoteLineGroup__c",
+          "SBQQ__QuoteLinePricingGuidance__c", "SBQQ__QuoteLineConsumptionSchedule__c",
+          "SBQQ__QuoteLineConsumptionRate__c", "SBQQ__PricingGuidanceTier__c", "SBQQ__ProductAction__c",
+          "SBQQ__ConfigurationRule__c", "SBQQ__ErrorCondition__c", "SBQQ__PriceAction__c", "SBQQ__PriceCondition__c",
+          "SBQQ__TemplateSection__c", "SBQQ__LineColumn__c", "SBQQ__SubscribedAsset__c",
+          "SBQQ__SubscriptionConsumptionSchedule__c", "SBQQ__SubscriptionConsumptionRate__c", "SBQQ__Quote__c",
+          "SBQQ__PricingGuidance__c", "SBQQ__ProductRule__c", "SBQQ__PriceRule__c",
+          "SBQQ__QuoteTemplate__c", "SBQQ__Subscription__c" ]
+      }
+    ],
+    "profiles/Account Manager.profile": [{
+        "where": "Profile",
+        "disableObjects": [ "SBQQ__QuoteDocument__c", "SBQQ__QuoteLine__c", "SBQQ__QuoteLineGroup__c",
+          "SBQQ__QuoteLinePricingGuidance__c", "SBQQ__QuoteLineConsumptionSchedule__c",
+          "SBQQ__QuoteLineConsumptionRate__c", "SBQQ__PricingGuidanceTier__c", "SBQQ__ProductAction__c",
+          "SBQQ__ConfigurationRule__c", "SBQQ__ErrorCondition__c", "SBQQ__PriceAction__c", "SBQQ__PriceCondition__c",
+          "SBQQ__TemplateSection__c", "SBQQ__LineColumn__c", "SBQQ__SubscribedAsset__c",
+          "SBQQ__SubscriptionConsumptionSchedule__c", "SBQQ__SubscriptionConsumptionRate__c", "SBQQ__Quote__c",
+          "SBQQ__PricingGuidance__c", "SBQQ__ProductRule__c", "SBQQ__PriceRule__c",
+          "SBQQ__QuoteTemplate__c", "SBQQ__Subscription__c" ]
+      }
+    ],
+    "profiles/Business Development Leader.profile": [{
+        "where": "Profile",
+        "disableObjects": [ "SBQQ__QuoteDocument__c", "SBQQ__QuoteLine__c", "SBQQ__QuoteLineGroup__c",
+          "SBQQ__QuoteLinePricingGuidance__c", "SBQQ__QuoteLineConsumptionSchedule__c",
+          "SBQQ__QuoteLineConsumptionRate__c", "SBQQ__PricingGuidanceTier__c", "SBQQ__ProductAction__c",
+          "SBQQ__ConfigurationRule__c", "SBQQ__ErrorCondition__c", "SBQQ__PriceAction__c", "SBQQ__PriceCondition__c",
+          "SBQQ__TemplateSection__c", "SBQQ__LineColumn__c", "SBQQ__SubscribedAsset__c",
+          "SBQQ__SubscriptionConsumptionSchedule__c", "SBQQ__SubscriptionConsumptionRate__c", "SBQQ__Quote__c",
+          "SBQQ__PricingGuidance__c", "SBQQ__ProductRule__c", "SBQQ__PriceRule__c",
+          "SBQQ__QuoteTemplate__c", "SBQQ__Subscription__c" ]
+      }
+    ],
+    "profiles/Business Development Representative.profile": [{
+        "where": "Profile",
+        "disableObjects": [ "SBQQ__QuoteDocument__c", "SBQQ__QuoteLine__c", "SBQQ__QuoteLineGroup__c",
+          "SBQQ__QuoteLinePricingGuidance__c", "SBQQ__QuoteLineConsumptionSchedule__c",
+          "SBQQ__QuoteLineConsumptionRate__c", "SBQQ__PricingGuidanceTier__c", "SBQQ__ProductAction__c",
+          "SBQQ__ConfigurationRule__c", "SBQQ__ErrorCondition__c", "SBQQ__PriceAction__c", "SBQQ__PriceCondition__c",
+          "SBQQ__TemplateSection__c", "SBQQ__LineColumn__c", "SBQQ__SubscribedAsset__c",
+          "SBQQ__SubscriptionConsumptionSchedule__c", "SBQQ__SubscriptionConsumptionRate__c", "SBQQ__Quote__c",
+          "SBQQ__PricingGuidance__c", "SBQQ__ProductRule__c", "SBQQ__PriceRule__c",
+          "SBQQ__QuoteTemplate__c", "SBQQ__Subscription__c" ]
+      }
+    ],
+    "profiles/Customer Success Representative.profile": [{
+        "where": "Profile",
+        "disableObjects": [ "SBQQ__QuoteDocument__c", "SBQQ__QuoteLine__c", "SBQQ__QuoteLineGroup__c",
+          "SBQQ__QuoteLinePricingGuidance__c", "SBQQ__QuoteLineConsumptionSchedule__c",
+          "SBQQ__QuoteLineConsumptionRate__c", "SBQQ__PricingGuidanceTier__c", "SBQQ__ProductAction__c",
+          "SBQQ__ConfigurationRule__c", "SBQQ__ErrorCondition__c", "SBQQ__PriceAction__c", "SBQQ__PriceCondition__c",
+          "SBQQ__TemplateSection__c", "SBQQ__LineColumn__c", "SBQQ__SubscribedAsset__c",
+          "SBQQ__SubscriptionConsumptionSchedule__c", "SBQQ__SubscriptionConsumptionRate__c", "SBQQ__Quote__c",
+          "SBQQ__PricingGuidance__c", "SBQQ__ProductRule__c", "SBQQ__PriceRule__c",
+          "SBQQ__QuoteTemplate__c", "SBQQ__Subscription__c" ]
+      }
+    ],
+    "profiles/Finance%2FExec.profile": [{
+        "where": "Profile",
+        "disableObjects": [ "SBQQ__QuoteDocument__c", "SBQQ__QuoteLine__c", "SBQQ__QuoteLineGroup__c",
+          "SBQQ__QuoteLinePricingGuidance__c", "SBQQ__QuoteLineConsumptionSchedule__c",
+          "SBQQ__QuoteLineConsumptionRate__c", "SBQQ__PricingGuidanceTier__c", "SBQQ__ProductAction__c",
+          "SBQQ__ConfigurationRule__c", "SBQQ__ErrorCondition__c", "SBQQ__PriceAction__c", "SBQQ__PriceCondition__c",
+          "SBQQ__TemplateSection__c", "SBQQ__LineColumn__c", "SBQQ__SubscribedAsset__c",
+          "SBQQ__SubscriptionConsumptionSchedule__c", "SBQQ__SubscriptionConsumptionRate__c", "SBQQ__Quote__c",
+          "SBQQ__PricingGuidance__c", "SBQQ__ProductRule__c", "SBQQ__PriceRule__c",
+          "SBQQ__QuoteTemplate__c", "SBQQ__Subscription__c" ]
+      }
+    ],
+    "profiles/GCS Exec.profile": [{
+        "where": "Profile",
+        "disableObjects": [ "SBQQ__QuoteDocument__c", "SBQQ__QuoteLine__c", "SBQQ__QuoteLineGroup__c",
+          "SBQQ__QuoteLinePricingGuidance__c", "SBQQ__QuoteLineConsumptionSchedule__c",
+          "SBQQ__QuoteLineConsumptionRate__c", "SBQQ__PricingGuidanceTier__c", "SBQQ__ProductAction__c",
+          "SBQQ__ConfigurationRule__c", "SBQQ__ErrorCondition__c", "SBQQ__PriceAction__c", "SBQQ__PriceCondition__c",
+          "SBQQ__TemplateSection__c", "SBQQ__LineColumn__c", "SBQQ__SubscribedAsset__c",
+          "SBQQ__SubscriptionConsumptionSchedule__c", "SBQQ__SubscriptionConsumptionRate__c", "SBQQ__Quote__c",
+          "SBQQ__PricingGuidance__c", "SBQQ__ProductRule__c", "SBQQ__PriceRule__c",
+          "SBQQ__QuoteTemplate__c", "SBQQ__Subscription__c" ]
+      }
+    ],
+    "profiles/Proposal Specialist.profile": [{
+        "where": "Profile",
+        "disableObjects": [ "SBQQ__QuoteDocument__c", "SBQQ__QuoteLine__c", "SBQQ__QuoteLineGroup__c",
+          "SBQQ__QuoteLinePricingGuidance__c", "SBQQ__QuoteLineConsumptionSchedule__c",
+          "SBQQ__QuoteLineConsumptionRate__c", "SBQQ__PricingGuidanceTier__c", "SBQQ__ProductAction__c",
+          "SBQQ__ConfigurationRule__c", "SBQQ__ErrorCondition__c", "SBQQ__PriceAction__c", "SBQQ__PriceCondition__c",
+          "SBQQ__TemplateSection__c", "SBQQ__LineColumn__c", "SBQQ__SubscribedAsset__c",
+          "SBQQ__SubscriptionConsumptionSchedule__c", "SBQQ__SubscriptionConsumptionRate__c", "SBQQ__Quote__c",
+          "SBQQ__PricingGuidance__c", "SBQQ__ProductRule__c", "SBQQ__PriceRule__c",
+          "SBQQ__QuoteTemplate__c", "SBQQ__Subscription__c" ]
+      }
+    ],
+    "profiles/Read Only %28Custom%29.profile": [{
+        "where": "Profile",
+        "disableObjects": [ "SBQQ__QuoteDocument__c", "SBQQ__QuoteLine__c", "SBQQ__QuoteLineGroup__c",
+          "SBQQ__QuoteLinePricingGuidance__c", "SBQQ__QuoteLineConsumptionSchedule__c",
+          "SBQQ__QuoteLineConsumptionRate__c", "SBQQ__PricingGuidanceTier__c", "SBQQ__ProductAction__c",
+          "SBQQ__ConfigurationRule__c", "SBQQ__ErrorCondition__c", "SBQQ__PriceAction__c", "SBQQ__PriceCondition__c",
+          "SBQQ__TemplateSection__c", "SBQQ__LineColumn__c", "SBQQ__SubscribedAsset__c",
+          "SBQQ__SubscriptionConsumptionSchedule__c", "SBQQ__SubscriptionConsumptionRate__c", "SBQQ__Quote__c",
+          "SBQQ__PricingGuidance__c", "SBQQ__ProductRule__c", "SBQQ__PriceRule__c",
+          "SBQQ__QuoteTemplate__c", "SBQQ__Subscription__c" ]
+      }
+    ],
+    "profiles/Sales Exec.profile": [{
+        "where": "Profile",
+        "disableObjects": [ "SBQQ__QuoteDocument__c", "SBQQ__QuoteLine__c", "SBQQ__QuoteLineGroup__c",
+          "SBQQ__QuoteLinePricingGuidance__c", "SBQQ__QuoteLineConsumptionSchedule__c",
+          "SBQQ__QuoteLineConsumptionRate__c", "SBQQ__PricingGuidanceTier__c", "SBQQ__ProductAction__c",
+          "SBQQ__ConfigurationRule__c", "SBQQ__ErrorCondition__c", "SBQQ__PriceAction__c", "SBQQ__PriceCondition__c",
+          "SBQQ__TemplateSection__c", "SBQQ__LineColumn__c", "SBQQ__SubscribedAsset__c",
+          "SBQQ__SubscriptionConsumptionSchedule__c", "SBQQ__SubscriptionConsumptionRate__c", "SBQQ__Quote__c",
+          "SBQQ__PricingGuidance__c", "SBQQ__ProductRule__c", "SBQQ__PriceRule__c",
+          "SBQQ__QuoteTemplate__c", "SBQQ__Subscription__c" ]
+      }
+    ],
+    "profiles/Sales Support.profile": [{
+        "where": "Profile",
+        "disableObjects": [ "SBQQ__QuoteDocument__c", "SBQQ__QuoteLine__c", "SBQQ__QuoteLineGroup__c",
+          "SBQQ__QuoteLinePricingGuidance__c", "SBQQ__QuoteLineConsumptionSchedule__c",
+          "SBQQ__QuoteLineConsumptionRate__c", "SBQQ__PricingGuidanceTier__c", "SBQQ__ProductAction__c",
+          "SBQQ__ConfigurationRule__c", "SBQQ__ErrorCondition__c", "SBQQ__PriceAction__c", "SBQQ__PriceCondition__c",
+          "SBQQ__TemplateSection__c", "SBQQ__LineColumn__c", "SBQQ__SubscribedAsset__c",
+          "SBQQ__SubscriptionConsumptionSchedule__c", "SBQQ__SubscriptionConsumptionRate__c", "SBQQ__Quote__c",
+          "SBQQ__PricingGuidance__c", "SBQQ__ProductRule__c", "SBQQ__PriceRule__c",
+          "SBQQ__QuoteTemplate__c", "SBQQ__Subscription__c" ]
+      }
+    ],
+    "profiles/Solution Deployment Manager.profile": [{
+        "where": "Profile",
+        "disableObjects": [ "SBQQ__QuoteDocument__c", "SBQQ__QuoteLine__c", "SBQQ__QuoteLineGroup__c",
+          "SBQQ__QuoteLinePricingGuidance__c", "SBQQ__QuoteLineConsumptionSchedule__c",
+          "SBQQ__QuoteLineConsumptionRate__c", "SBQQ__PricingGuidanceTier__c", "SBQQ__ProductAction__c",
+          "SBQQ__ConfigurationRule__c", "SBQQ__ErrorCondition__c", "SBQQ__PriceAction__c", "SBQQ__PriceCondition__c",
+          "SBQQ__TemplateSection__c", "SBQQ__LineColumn__c", "SBQQ__SubscribedAsset__c",
+          "SBQQ__SubscriptionConsumptionSchedule__c", "SBQQ__SubscriptionConsumptionRate__c", "SBQQ__Quote__c",
+          "SBQQ__PricingGuidance__c", "SBQQ__ProductRule__c", "SBQQ__PriceRule__c",
+          "SBQQ__QuoteTemplate__c", "SBQQ__Subscription__c" ]
+      }
+    ],
+    "profiles/Solutions Architect.profile": [{
+        "where": "Profile",
+        "disableObjects": [ "SBQQ__QuoteDocument__c", "SBQQ__QuoteLine__c", "SBQQ__QuoteLineGroup__c",
+          "SBQQ__QuoteLinePricingGuidance__c", "SBQQ__QuoteLineConsumptionSchedule__c",
+          "SBQQ__QuoteLineConsumptionRate__c", "SBQQ__PricingGuidanceTier__c", "SBQQ__ProductAction__c",
+          "SBQQ__ConfigurationRule__c", "SBQQ__ErrorCondition__c", "SBQQ__PriceAction__c", "SBQQ__PriceCondition__c",
+          "SBQQ__TemplateSection__c", "SBQQ__LineColumn__c", "SBQQ__SubscribedAsset__c",
+          "SBQQ__SubscriptionConsumptionSchedule__c", "SBQQ__SubscriptionConsumptionRate__c", "SBQQ__Quote__c",
+          "SBQQ__PricingGuidance__c", "SBQQ__ProductRule__c", "SBQQ__PriceRule__c",
+          "SBQQ__QuoteTemplate__c", "SBQQ__Subscription__c" ]
+      }
+    ],
+    "profiles/Solutions Consultant.profile": [{
+        "where": "Profile",
+        "disableObjects": [ "SBQQ__QuoteDocument__c", "SBQQ__QuoteLine__c", "SBQQ__QuoteLineGroup__c",
+          "SBQQ__QuoteLinePricingGuidance__c", "SBQQ__QuoteLineConsumptionSchedule__c",
+          "SBQQ__QuoteLineConsumptionRate__c", "SBQQ__PricingGuidanceTier__c", "SBQQ__ProductAction__c",
+          "SBQQ__ConfigurationRule__c", "SBQQ__ErrorCondition__c", "SBQQ__PriceAction__c", "SBQQ__PriceCondition__c",
+          "SBQQ__TemplateSection__c", "SBQQ__LineColumn__c", "SBQQ__SubscribedAsset__c",
+          "SBQQ__SubscriptionConsumptionSchedule__c", "SBQQ__SubscriptionConsumptionRate__c", "SBQQ__Quote__c",
+          "SBQQ__PricingGuidance__c", "SBQQ__ProductRule__c", "SBQQ__PriceRule__c",
+          "SBQQ__QuoteTemplate__c", "SBQQ__Subscription__c" ]
+      }
+    ]
+  },
+  "master": {
+    "workflows/Account.workflow":[
+      {
+        "where": "Workflow.alerts[* fullName=New_customer_logo_is_available | fullName=Customer_logo_is_not_available_anymore]",
+        "replace": { "ccEmails": "mktd@docebo.com" }
+      }
+    ],
+    "workflows/Opportunity.workflow": [
+      {
+        "where": "Workflow.alerts[* fullName=Opportunity_Closed_Lost]",
+        "replace": {
+          "ccEmails": "wonloss@docebo.com"
+        }
+      },
+      {
+        "where": "Workflow.alerts[* fullName=Opportunity_Closed_Lost_2]",
+        "replace": {
+          "ccEmails": "andrea.biraghi@docebo.com"
+        }
+      },
+      {
+        "where": "Workflow.alerts[* fullName=Opportunity_Closed_Lost_3]",
+        "replace": {
+          "ccEmails": "wonloss@docebo.com,contract@docebo.com"
+        }
+      },
+      {
+        "where": "Workflow.alerts[* fullName=Opportunity_Closed_Won]",
+        "replace": {
+          "ccEmails": "insiders@docebo.com"
+        }
+      },
+      {
+        "where": "Workflow.alerts[* fullName=Sales_Hand_Off_Email_Alert]",
+        "replace": {
+          "ccEmails": "saleshandoff@docebo.com"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "object": "SBQQ__ProductFeature__c",
+    "externalId": "External_Id__c",
+    "source": "./cpq-data/product-features.csv"
+  },
+  {
+    "object": "SBQQ__ProductOption__c",
+    "externalId": "External_Id__c",
+    "source": "./cpq-data/product-options.csv"
+  },
+  {
+    "object": "SBQQ__SummaryVariable__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/summary-variables.csv"
+  },
+  {
+    "object": "SBQQ__ProductRule__c",
+    "externalId": "External_Id__c",
+    "source": "./cpq-data/product-rules-no-conditions.csv"
+  },
+  {
+    "object": "SBQQ__ErrorCondition__c",
+    "externalId": "External_Id__c",
+    "source": "./cpq-data/error-conditions.csv"
+  },
+  {
+    "object": "SBQQ__ProductRule__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/product-rules-conditions.csv"
+  },
+  {
+    "object": "SBQQ__ProductAction__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/product-actions.csv"
+  },
+  {
+    "object": "SBQQ__ConfigurationRule__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/configuration-rules.csv"
+  },
+  {
+    "object": "SBQQ__CustomAction__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/custom-actions.csv"
+  },
+  {
+    "object": "SBQQ__CustomAction__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/custom-action-relations.csv"
+  },
+  {
+    "object": "SBQQ__CustomActionCondition__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/custom-action-conditions.csv"
+  },
+  {
+    "object": "SBQQ__Dimension__c",
+    "externalId": "Externa_lId__c",
+    "source": "./cpq-data/dimensions.csv"
+  },
+  {
+    "object": "SBQQ__PriceRule__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/price-rules.csv"
+  },
+  {
+    "object": "SBQQ__PriceAction__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/price-actions.csv"
+  },
+  {
+    "object": "SBQQ__PriceCondition__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/price-conditions.csv"
+  },
+  {
+    "object": "SBQQ__LookupData__c",
+    "externalId": "External_Id__c",
+    "source": "./cpq-data/lookup-data.csv"
+  },
+  {
+    "object": "SBQQ__LookupQuery__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/lookup-objects.csv"
+  },
+  {
+    "object": "SBQQ__SearchFilter__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/search-filters.csv"
+  },
+  {
+    "object": "SBQQ__CustomScript__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/custom-scripts.csv"
+  },
+  {
+    "object": "SBQQ__TemplateContent__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/template-contents.csv"
+  },
+  {
+    "object": "SBQQ__QuoteTemplate__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/quote-templates.csv"
+  },
+  {
+    "object": "SBQQ__TemplateSection__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/template-sections.csv"
+  },
+  {
+    "object": "SBQQ__LineColumn__c",
+    "externalId": "ExternalId__c",
+    "source": "./cpq-data/line-columns.csv"
+  }
+]
